@@ -1,2 +1,3 @@
 total_price = 5+8
-print(total_price)
+total = total_price - 7
+print(total)
